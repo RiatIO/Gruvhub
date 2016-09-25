@@ -1,6 +1,8 @@
-# GruvHub theme
+# GruvHub theme 
+### A gruvbox inspired theme
 
-A gruvbox inspired theme.
+
+Based on [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).
 
 <a href="https://atom.io/packages/gruvhub-syntax"><img src="http://i.imgur.com/WOcQMGg.png" align="center" height="25%" width="40%" ></a>
 
