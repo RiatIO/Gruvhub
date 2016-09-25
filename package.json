@@ -1,13 +1,13 @@
 {
   "name": "gruvhub-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Gruving done the right way",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/gruvhub-syntax",
+  "repository": "https://github.com/Perelan/Gruvhub",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
