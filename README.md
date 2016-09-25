@@ -17,7 +17,7 @@ $ apm install gruvhub-syntax
 
 After installation, you can enable this theme in your [Atom theme settings](http://flight-manual.atom.io/using-atom/sections/atom-packages/#_atom_themes).
 
-### Supported languages
+## Supported languages
 
 - C
 - CSS / Less / SASS / SCSS
