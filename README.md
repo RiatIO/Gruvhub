@@ -1,8 +1,4 @@
 # GruvHub Syntax Theme for Atom 
-### A gruvbox inspired theme
-
-
-Based on [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).
 
 <a href="https://atom.io/packages/gruvhub-syntax"><img src="http://i.imgur.com/WOcQMGg.png" align="center" height="25%" width="40%" ></a>
 
@@ -21,6 +17,9 @@ After installation, you can enable this theme in your [Atom theme settings](http
 ## Changelog
 
 The [changelog](https://github.com/Perelan/Gruvhub/blob/master/CHANGELOG.md) is kept in the repository and updated on major releases.
+
+## Credits
+Based on [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).
 
 ## License
 
