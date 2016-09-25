@@ -1,6 +1,8 @@
 # GruvHub Syntax Theme for Atom 
 
-<a href="https://atom.io/packages/gruvhub-syntax"><img src="http://i.imgur.com/WOcQMGg.png" align="center" height="25%" width="40%" ></a>
+<br>
+<center>
+<a href="https://atom.io/packages/gruvhub-syntax"><img src="http://i.imgur.com/WOcQMGg.png" align="center" height="800px" width="500px" ></a></center>
 
 ## Install
 
