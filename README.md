@@ -2,4 +2,4 @@
 
 A gruvbox inspired theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+<a href="url"><img src="http://i.imgur.com/WOcQMGg.png" align="center" height="700" width="400" ></a>
