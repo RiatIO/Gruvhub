@@ -1,4 +1,4 @@
-# GruvHub theme 
+# GruvHub Syntax Theme for Atom 
 ### A gruvbox inspired theme
 
 
