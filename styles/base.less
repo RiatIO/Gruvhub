@@ -75,6 +75,10 @@ atom-text-editor .search-results .marker.current-result .region,
         &.import {
             color: @blue;
         }
+
+        &.directive.conditional.c {
+            color: @green;
+        }
     }
 
     &.operator {
@@ -128,9 +132,11 @@ atom-text-editor .search-results .marker.current-result .region,
         &.function.python {
             color: lighten(@red, 19%);
         }
-
         &.annotation {
             color: @blue;
+        }
+        &.c {
+            color: @yellow;
         }
     }
 }
