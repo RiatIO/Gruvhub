@@ -191,10 +191,14 @@ atom-text-editor .search-results .marker.current-result .region,
     &.other.loop.shell {
         color: @syntax-text-color;
     }
+
+    &.language.self.python {
+        color: @yellow;
+    }
 }
 
 .invalid.illegal {
-    background-color: @red;
+    background-color: @light-red;
     color: @syntax-background-color;
 }
 
@@ -274,7 +278,7 @@ atom-text-editor .search-results .marker.current-result .region,
             color: @blue;
         }
         &.magic.python {
-            color: @blue;
+            color: @aqua;
         }
     }
     &.type.exception {
@@ -291,7 +295,7 @@ atom-text-editor .search-results .marker.current-result .region,
         text-decoration: underline;
 
         &.class.python {
-            color: @blue;
+            color: @aqua;
         }
     }
 
