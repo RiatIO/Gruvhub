@@ -126,6 +126,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
     &.type {
         color: @syntax-text-color;
+
         &.primitive.java {
             color: @yellow;
         }
@@ -137,6 +138,10 @@ atom-text-editor .search-results .marker.current-result .region,
         }
         &.c {
             color: @yellow;
+        }
+
+        &.js {
+            color: @light-orange;
         }
 
         &.class.python {
@@ -189,6 +194,10 @@ atom-text-editor .search-results .marker.current-result .region,
     }
 
     &.other.loop.shell {
+        color: @syntax-text-color;
+    }
+
+    &.other.js {
         color: @syntax-text-color;
     }
 
